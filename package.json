@@ -1,0 +1,9 @@
+{
+  "name": "ywjniboz",
+  "version": "1.0.0",
+  "main": "ywjniboz.js",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7"
+  }
+}
